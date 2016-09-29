@@ -1,4 +1,4 @@
-package oxford.api;
+package cognitiveservices.api;
 
 import java.io.File;
 import java.net.URI;

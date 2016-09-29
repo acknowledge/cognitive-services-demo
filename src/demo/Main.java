@@ -1,7 +1,7 @@
 package demo;
 
-import oxford.api.Emotion;
-import oxford.api.Face;
+import cognitiveservices.api.Emotion;
+import cognitiveservices.api.Face;
 
 public class Main {
 
